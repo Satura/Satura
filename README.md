@@ -1,6 +1,25 @@
-### Hi there
-
 I'm exploring digital world after studying «Software Testing» course in Netology
+
+---
+
+## Закончила курс "Тестирование ПО" в Нетологии и продолжаю обучение
+
+### В ходе обучения я приобрела наывыки: 
+
+* ручное тестирование, написание тест-кейсов, тест-дизайн
+
+* тестирование веб-приложений, API, понимание клиент-серверного взаимодействия, работа с DevTools, Postman
+
+* понимание работы баз данных, написание SQL-запросов
+
+* работа с Git
+
+* автотестирование веб-приложений на Java с использованием JUnit, Selenium, Selenide
+
+* проведение нагрузочных тестов и удобства использования
+
+* работа с Docker и Docker Compose
+
 
 <!--
 **Satura/Satura** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,19 +36,19 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!-- 
-### Ключевые навыки
+### 
+-->
+---
 
-* Ручное тестирование, написание тест-кейсов, тест-дизайн
 
-* Тестирование веб-приложений, API, понимание клиент-серверного взаимодействия, работа с DevTools, Postman
+### [Курсовая работа](https://github.com/Satura/Coursework-IQA)
 
-* Понимание работы баз данных, написание SQL-запросов
+### [Дипломная работа](https://github.com/Satura/DiplomaQA)
 
-* Работа с Git
+<!-- 
 
-* Автотестирование веб-приложений на Java с использованием JUnit, Selenium, Selenide
+<img align="left" alt="Postman" width="26px" src="https://www.ade-technologies.com/images/Postman_tool.png"/>
+<img align="left" alt="JMeter" width="26px" src="https://s3-ap-northeast-1.amazonaws.com/doridorian.com/blog/assets/2017-11-25/img-1.png"/>
+<img align="left" alt="Docker" width="26px" src="https://avatars.githubusercontent.com/u/30554787?s=400&amp;v=4"/>
 
-* Проведение нагрузочных тестов и удобства использования
-
-* Работа с Docker и Docker Compose
 -->
