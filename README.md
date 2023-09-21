@@ -1,6 +1,6 @@
 ### Закончила курс "Тестирование ПО" в Нетологии
 
-### В ходе обучения я приобрела наывыки: 
+#### В ходе обучения я приобрела наывыки: 
 
 * ручное тестирование, написание тест-кейсов, тест-дизайн
 
@@ -16,6 +16,9 @@
 
 * работа с Docker и Docker Compose
 
+### В настоящее время являюсь студентом MathsHub курс QA automation engineer
+
+В рамках модуля по Python написан небольшой  [Telegram-бот](https://github.com/Satura/Finance_Space_Bot)
 
 <!--
 **Satura/Satura** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
