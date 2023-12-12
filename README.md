@@ -14,6 +14,8 @@
 
 В рамках модуля по Python написан небольшой  **[Telegram-бот](https://github.com/Satura/Finance_Space_Bot)**
 
+В рамках модуля по SQL проведен анализ датасета **[LinkedIn Job Postings – 2023](https://github.com/Satura/SQL_final_project/tree/main)**
+
 <!--
 **Satura/Satura** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
