@@ -16,6 +16,8 @@
 
 В рамках модуля по SQL проведен анализ датасета **[LinkedIn Job Postings – 2023](https://github.com/Satura/SQL_final_project/tree/main)**
 
+В рамках модуля Теория тестирования проведено [тестирование сайта](https://github.com/Satura/TestTheoryProject) _интернет-агентства Future_
+
 <!--
 **Satura/Satura** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -40,6 +42,7 @@ Here are some ideas to get you started:
 
 ### [Дипломная работа](https://github.com/Satura/DiplomaQA)
 
+### [Проектная работа по теории тестирования](https://github.com/Satura/TestTheoryProject)
 <!-- 
 
 <img align="left" alt="Postman" width="26px" src="https://www.ade-technologies.com/images/Postman_tool.png"/>
