@@ -18,6 +18,8 @@
 
 В рамках модуля Теория тестирования проведено [тестирование сайта](https://github.com/Satura/TestTheoryProject) _интернет-агентства Future_
 
+В рамках модуля Тестирование веб-приложений проведено [тестирование API Restful-Booker](https://github.com/Satura/API_final_project)
+
 <!--
 **Satura/Satura** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
