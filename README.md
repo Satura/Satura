@@ -45,6 +45,8 @@ Here are some ideas to get you started:
 ### [Дипломная работа](https://github.com/Satura/DiplomaQA)
 
 ### [Проектная работа по теории тестирования](https://github.com/Satura/TestTheoryProject)
+
+### [Проектная работа по тестированию API](https://github.com/Satura/API_final_project)
 <!-- 
 
 <img align="left" alt="Postman" width="26px" src="https://www.ade-technologies.com/images/Postman_tool.png"/>
