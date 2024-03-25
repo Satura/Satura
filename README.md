@@ -10,7 +10,7 @@
 * проведение нагрузочных тестов и удобства использования
 * работа с Docker и Docker Compose
 
-### В настоящее время являюсь студентом MathsHub курс QA automation engineer
+### Прошла курс "QA automation engineer" в MathsHub 
 
 В рамках модуля по Python написан небольшой  **[Telegram-бот](https://github.com/Satura/Finance_Space_Bot)**
 
@@ -19,6 +19,8 @@
 В рамках модуля Теория тестирования проведено [тестирование сайта](https://github.com/Satura/TestTheoryProject) _интернет-агентства Future_
 
 В рамках модуля Тестирование веб-приложений проведено [тестирование API Restful-Booker](https://github.com/Satura/API_final_project)
+
+В рамках модуля Тестирование мобильных приложений составлены тест-кейсы, проведен анализ и выбор устройств, [автоматизированы отдельные тест-кейсы](https://github.com/Satura/qa-mobile/tree/main)
 
 <!--
 **Satura/Satura** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -44,9 +46,11 @@ Here are some ideas to get you started:
 
 ### [Дипломная работа](https://github.com/Satura/DiplomaQA)
 
-### [Проектная работа по теории тестирования](https://github.com/Satura/TestTheoryProject)
+### [Проект по теории тестирования](https://github.com/Satura/TestTheoryProject)
 
-### [Проектная работа по тестированию API](https://github.com/Satura/API_final_project)
+### [Проект по тестированию API](https://github.com/Satura/API_final_project)
+
+### [Проект по автоматизации тестирования мобильного приложения](https://github.com/Satura/qa-mobile)
 <!-- 
 
 <img align="left" alt="Postman" width="26px" src="https://www.ade-technologies.com/images/Postman_tool.png"/>
