@@ -22,6 +22,7 @@
 
 В рамках модуля Тестирование мобильных приложений составлены тест-кейсы, проведен анализ и выбор устройств, [автоматизированы отдельные тест-кейсы](https://github.com/Satura/qa-mobile/tree/main)
 
+[Резюме](https://drive.google.com/file/d/1bSuzrRsDOP9b3Vp4_01ws-nhLpinHxVt/view?usp=sharing)
 <!--
 **Satura/Satura** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
