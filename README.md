@@ -19,6 +19,7 @@
 
 ## Проекты
 * [ручное тестирование сайта интернет-агентства Future](https://github.com/Satura/TestTheoryProject)
+	* [тестирование различных сайтов](https://github.com/Satura/website-testing)
 * [тестирование API Restful-Booker](https://github.com/Satura/API_final_project)
 * [автоматизация тестирования комплексного сервиса, взаимодействующего с СУБД и API Банка" (дипломный проект)](https://github.com/Satura/DiplomaQA)
 * [анализ датасета LinkedIn Job Postings – 2023](https://github.com/Satura/SQL_final_project/tree/main)
