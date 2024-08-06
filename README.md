@@ -17,6 +17,8 @@
   
   <img align="left" alt="Postman" width="26px" src="https://img.icons8.com/?size=100&id=ti98Xg8mxLWd&format=png&color=000000"/> SQL
 
+  <img align="left" alt="Postman" width="26px" src="https://img.icons8.com/?size=100&id=OrZMxhqm7nsr&format=png&color=000000"/> JMeter
+
 ## Проекты
 * [ручное тестирование сайта интернет-агентства Future](https://github.com/Satura/TestTheoryProject)
 	* [тестирование различных сайтов](https://github.com/Satura/website-testing)
